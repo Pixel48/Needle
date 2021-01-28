@@ -13,7 +13,7 @@ Import outdated VooDoo scripts with tracking data into Blender
 This project is [GNU GPL v3](https://www.gnu.org/licenses/) licensed.
 
 ---
-###### Copyright © 2021 [Stanislaw Pigon](https://github.com/Pixel48).  
+###### Copyright © 2021 [Pixel48](https://github.com/Pixel48)  
 
 
 [_status]: https://img.shields.io/badge/status-not_ready-red

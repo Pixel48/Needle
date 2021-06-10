@@ -1,9 +1,9 @@
 # Needle
-[![_version]][lastRelease]
+<!-- [![_version]][lastRelease] -->
 [![_license]][license]
-[![_commits]][develop]
+<!-- [![_commits]][develop] -->
 
-Import outdated VooDoo scripts with tracking data into Blender
+Import outdated VooDoo scripts with camera tracking data into Blender
 
 ## Installation
 1. Download .zip file using green button above (if you have python installed) or setup exec from [last release][lastRelease]
